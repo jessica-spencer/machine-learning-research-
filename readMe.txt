@@ -1,0 +1,1 @@
+After you run framework.m, go to Apps in the toolbar of matlab, and open 'Classification Learner'. Click the yellow + that says 'New Session' and select 'T' as your variable.  Train on All SVMs, and look at the confusion matrix for the best visualized results.
