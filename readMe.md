@@ -1,6 +1,6 @@
 
 # Scene Classification
-### Research done by Jessica Spencer, advised by Professor Ozgur Izmirli at Connecticut ### College, Fall 2016 - Spring 2017
+### Research done by Jessica Spencer, advised by Professor Ozgur Izmirli at Connecticut  College, Fall 2016 - Spring 2017
 
 ## Why?
 Scene classification in images is an important machine learning problem in many fields, including archiving, museum work, and social media tagging.  Scene classification can be used to target advertisements in social media, to pre-tag images, and to learn more about a company’s audience. This research was an attempt to create a scene classifier without relying on object detection (as many do). I used a single data set for all me research which I acquired from [Image and Visual Representation Lab](http://ivrl.epfl.ch/supplementary_material/cvpr11/). 
